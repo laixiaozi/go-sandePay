@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57f501ce-d01b-4fc9-a326-aac310f72f69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/golang/go1.18.6.linux-amd64/go" />
+  <component name="ProjectId" id="2K9zRbR3L8VriUYEGoPGY0vqkGQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../art.gozqh" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build sandPay" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="sandPay" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="sandPay" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build sandPay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>http://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="177" width="800" height="683" key="#Go_Modules_(vgo)" timestamp="1673401627421">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="555" y="177" width="800" height="683" key="#Go_Modules_(vgo)/0.0.1920.1032@0.0.1920.1032" timestamp="1673401627421" />
+    <state x="711" y="238" width="424" height="490" key="FileChooserDialogImpl" timestamp="1673401681354">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="711" y="238" width="424" height="490" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1673401681354" />
+    <state width="1872" height="272" key="GridCell.Tab.0.bottom" timestamp="1673406696665">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1673406696665" />
+    <state width="1872" height="272" key="GridCell.Tab.0.center" timestamp="1673406696665">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="272" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1673406696665" />
+    <state width="1872" height="272" key="GridCell.Tab.0.left" timestamp="1673406696664">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="272" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1673406696664" />
+    <state width="1872" height="272" key="GridCell.Tab.0.right" timestamp="1673406696665">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1872" height="272" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1673406696665" />
+  </component>
+</project>
